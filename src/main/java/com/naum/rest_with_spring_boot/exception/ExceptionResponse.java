@@ -1,4 +1,4 @@
-package com.naum.rest_with_spring_boot.exeption;
+package com.naum.rest_with_spring_boot.exception;
 
 import java.util.Date;
 
