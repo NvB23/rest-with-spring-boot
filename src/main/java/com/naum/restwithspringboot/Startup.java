@@ -1,4 +1,4 @@
-package com.naum.rest_with_spring_boot;
+package com.naum.restwithspringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

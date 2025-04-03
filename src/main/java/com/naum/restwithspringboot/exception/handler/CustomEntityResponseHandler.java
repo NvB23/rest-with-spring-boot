@@ -1,7 +1,7 @@
-package com.naum.rest_with_spring_boot.exception.handler;
+package com.naum.restwithspringboot.exception.handler;
 
-import com.naum.rest_with_spring_boot.exception.ExceptionResponse;
-import com.naum.rest_with_spring_boot.exception.ResourceNotFoundException;
+import com.naum.restwithspringboot.exception.ExceptionResponse;
+import com.naum.restwithspringboot.exception.ResourceNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

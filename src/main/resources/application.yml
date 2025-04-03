@@ -1,6 +1,6 @@
 spring:
   application:
-    name: rest-with-spring-boot
+    name: restwithspringboot
   output:
     ansi:
       enabled: ALWAYS
@@ -19,3 +19,8 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: false
+
+  logging:
+    level:
+      root: ERRO
+      # com.naum.rest_with_spring_boot: DEBUG

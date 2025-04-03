@@ -1,4 +1,4 @@
-package com.naum.rest_with_spring_boot.exception;
+package com.naum.restwithspringboot.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
